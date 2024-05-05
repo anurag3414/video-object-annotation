@@ -106,6 +106,9 @@ In this model, we will directly upload the video to get the video with annotated
 ### Raw video
 
 
+https://github.com/anurag3414/video-object-annotation/assets/116138151/dcce8e91-c57f-4c68-bd70-967c75d9aa22
+
+
 
 
 ### Annotated video
