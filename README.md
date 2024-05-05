@@ -1,5 +1,5 @@
 
-# Embedded Systems - Drone Dataset with Annotations
+# Embedded Systems - Video Annotation
 
 
 In this project, we applied various methods to generate annotated videos of a  dataset. The methods that we used were - Roboflow, YOLOv8 live object annotation and YOLOv8 annotation via uploading videoes and dividing videoes into frames(FPS). Let’s dive into the specifications of each method.
