@@ -73,25 +73,9 @@ Roboflow is an intelligent tool that smartly annotates the images based on vario
 YOLOv8 is a cutting-edge object detection algorithm employing a powerful backbone network, feature pyramid, and advanced training techniques to accurately detect objects across various scales. Its efficient architecture and post-processing methods make it a widely utilized solution for real-time applications such as autonomous driving and surveillance.
 
 
-
-
-
-
-### Trial Run
-
-
-
 ### Model Dashboard
 
 ![image](https://github.com/anurag3414/video-object-annotation/assets/116138151/0291a3c6-88a2-490b-8bd7-07febdc708f9)
-
-
-
-### Live Annotation Output
-
-<img title="a title" alt="Alt text" src="/assets/6e876599-7403-4b3c-9b81-e7bcf5f7427b.jpg" width=100%>
-
-
 
 
 ## YOLOv8 Model on an uploaded image
@@ -101,7 +85,8 @@ In this model, we will directly upload the video to get the video with annotated
 
 ### Dashboard
 
-<img title="a title" alt="Alt text" src="/assets/ce36895f-1b8c-4239-87ae-ef9ded604dc7.jpg" width=100%>
+![image](https://github.com/anurag3414/video-object-annotation/assets/116138151/2cc886a7-1064-488a-bd14-ac35e419531f)
+
 
 ### Raw video
 
