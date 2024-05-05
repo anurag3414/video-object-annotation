@@ -113,3 +113,6 @@ https://github.com/anurag3414/video-object-annotation/assets/116138151/dcce8e91-
 
 ### Annotated video
 
+
+https://github.com/anurag3414/video-object-annotation/assets/116138151/05292082-6046-4a62-82bc-f1ea8e7d022f
+
